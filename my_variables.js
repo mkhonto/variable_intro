@@ -1,0 +1,15 @@
+var boo = true;
+var age = 20;
+var name = "jabu";
+var date = new Date();
+var colors = ["blue", "yellow", "red", "black"];
+console.log(boo);
+console.log(typeof boo);
+console.log(age);
+console.log(typeof age);
+console.log(name);
+console.log(typeof name);
+console.log(date);
+console.log(typeof date);
+console.log(colors);
+console.log(typeof colors);
